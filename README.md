@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I practice and sharp my coding skills out of my home.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidrasynl/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SaidRasinlic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidrasynl/)
 
 ---
 
