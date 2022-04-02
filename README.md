@@ -1,4 +1,3 @@
-@import url('https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/css/flag-icons.min.css');
 <!--
 **SaidRasinlic/SaidRasinlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina <span class="flag-icon flag-icon-ba"></span>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina <iframe src="https://giphy.com/embed/ZErLg8vw36g4oGMTTi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-emoji-emojivid-ZErLg8vw36g4oGMTTi">via GIPHY</a></p>.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
