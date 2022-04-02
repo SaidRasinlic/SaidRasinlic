@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring new Ruby, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
+- :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
 - :zap: In my free time, I play games, read books and practice coding outside of my home office preferably on some cool locations.
 
