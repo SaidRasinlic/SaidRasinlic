@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithms skills.
 
-- :zap: In my free time, I practice and sharp my coding skills out of my home.
+- :zap: In my free time, I play games, read books, practice coding outside of my home on cool locations.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SaidRasinlic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidrasynl/)
 
