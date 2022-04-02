@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About me:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
