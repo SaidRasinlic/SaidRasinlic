@@ -76,7 +76,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats : -->
+
+<h2 align="center"> :fire: My Stats: </h2>
 
 <p align="center">
   <img alig src="http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark"/><span><img alig src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true&theme=dark"/></span><span><img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&layout=compact&theme=dark"/</span>
