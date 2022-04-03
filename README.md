@@ -83,4 +83,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+```
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaidRasinlic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+```
