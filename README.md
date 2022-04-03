@@ -79,11 +79,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <p align="center">
-  <img alig src="http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark&background=000000"/><span><img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&layout=compact&theme=vision-friendly-dark"/></span>
+  <img alig src="http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark&background=000000"/><span><img alig src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/></span>
 </p>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark&background=000000)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
