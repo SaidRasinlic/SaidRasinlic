@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <p align="center">
-  <img alig src="http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark&background=000000" />
+  <img alig src="http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark&background=000000"/><span><img alig src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&layout=compact&theme=vision-friendly-dark"/></span>
 </p>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark&background=000000)](https://git.io/streak-stats)
