@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
-- :zap: In my free time, I play games, follow the latest news and practice coding outside of my home office preferably on some cool locations.
+- :zap: In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on some cool locations.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SaidRasinlic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidrasynl/)
 
