@@ -12,9 +12,7 @@
 </div>
 
 <h2>:fire: About Me:<img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-<!-- <img width="55%" align="right" alt="Github" src="https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg" /> -->
-src='https://mocah.org/thumbs/583093-stickers-4k.jpg' src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"
-
+<img width="55%" align="right" alt="Github" src="src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on My Blog, Github Project
 
