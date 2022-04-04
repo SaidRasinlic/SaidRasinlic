@@ -3,7 +3,7 @@
 </div>
 <!--https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg-->
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<p align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SaidRasinlic.SaidRasinlic)
 
