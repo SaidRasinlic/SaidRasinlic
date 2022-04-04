@@ -18,13 +18,19 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on My Blog, Github Project
+- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
+
+- :zap: In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
+
+<!-- - 🔭 I’m currently working on My Blog, Github Project
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source  -->
 
 <!-- <h2> Skills <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
