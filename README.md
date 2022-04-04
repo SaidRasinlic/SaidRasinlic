@@ -17,8 +17,6 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### :man_technologist: About me:
-
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina.
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
