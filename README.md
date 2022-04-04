@@ -12,8 +12,8 @@
 </div>
 
 <h2>:fire: About Me:<img align="center" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-<!--<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-<img src="https://mocah.org/thumbs/583093-stickers-4k.jpg"/>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🔭 I’m currently working on My Blog, Github Project
 
