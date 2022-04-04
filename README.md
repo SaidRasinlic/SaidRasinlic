@@ -13,26 +13,18 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 <div size='20px'> Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 </div>
-<h2>About Me:<img align="center" width="100px" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif"></h2>
-<!--https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6 https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bosnia and Herzegovina.
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- :zap: In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SaidRasinlic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidrasynl/)
-
-<!-- - 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on My Blog, Github Project
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source -->
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
 <h2> Skills <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
