@@ -22,7 +22,9 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
-- :zap: In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
+- ⌚ In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
+
+- ⚡ Fun fact about me is that nobody loved me until I started making first money.
 
 <!-- - 🔭 I’m currently working on My Blog, Github Project
 
