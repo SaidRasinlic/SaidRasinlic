@@ -36,7 +36,7 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
  
- <h2>:hammer_and_wrench: Languages and Tools : </h2>
+ <h2> Languages and Tools :hammer_and_wrench: </h2>
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
