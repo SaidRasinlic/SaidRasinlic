@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">README PROFILE NOT FINISHED YET</p>
+<p align="center">README PROFILE NOT FINISHED YET CUZ IM LAZY 😁</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
