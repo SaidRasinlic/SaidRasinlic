@@ -24,8 +24,6 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 
 - ⌚ In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
 
-- ⚡ Fun fact about me is that nobody loved me until I started making first money.
-
 <!-- - 🔭 I’m currently working on My Blog, Github Project
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
