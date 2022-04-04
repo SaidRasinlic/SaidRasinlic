@@ -1,7 +1,7 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg " alt="cover" />
 </div>
-
+<!--https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg-->
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
