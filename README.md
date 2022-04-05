@@ -18,7 +18,7 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
