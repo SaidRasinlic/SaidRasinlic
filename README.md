@@ -14,7 +14,7 @@ PROFILE NOT FINISHED YET ~ / 04/04/2022
 </div>
 </div>
 
-<h2> About Me </h2>
+<h2> About Me :fire: </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
