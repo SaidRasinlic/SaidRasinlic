@@ -1,4 +1,4 @@
-PROFILE NOT FINISHED YET ~ / 04/04/2022
+PROFILE NOT FINISHED YET ~ / 07/04/2022
 
 <div align="center">
 <img width="100%" height = "440px" src="https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg " alt="cover" />
