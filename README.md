@@ -15,8 +15,8 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 </div>
 
 <h2> About Me :fire: </h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg -->
+<img width="55%" align="right" alt="Github" src="https://tenor.com/view/storm-lightning-thunder-electricity-gif-15861194" />
 
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
