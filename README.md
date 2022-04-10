@@ -19,7 +19,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 <!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg,
  https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1-->
 <img align="right" alt="Github" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1" width="55%"  />
-<img alt="uni" src="https://giphy.com/gifs/earth-planet-americas-l5JbspfwZ0yjHjlJ0K" />
+<img alt="uni" src="https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" />
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
