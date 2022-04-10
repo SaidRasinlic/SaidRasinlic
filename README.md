@@ -73,10 +73,14 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 <a href = 'https://medium.com/@saidrasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.github.com/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<!-- https://github.com/anuraghazra/github-readme-stats-->
+<!-- https://github.com/anuraghazra/github-readme-stats
+https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>
+https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true&theme=apprentice
+
+-->
 <h2> Stuff I worked on recently <img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true&theme=apprentice"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&theme=apprentice"/>
 </a>
 <br>
 
