@@ -87,8 +87,8 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 </div>
 
 
-<h2> Random Dev Quote ✍️ </h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h2>Dev Quotes ✍️ </h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 
 <!-- <h2> Stuff I worked on recently <img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
