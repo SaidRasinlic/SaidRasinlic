@@ -7,14 +7,14 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg
 -->
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-  
- <img src="https://profile-counter.glitch.me/SaidRasinlic/count.svg" />
-<!-- <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey" /> 
+ 
+ <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge" />
+<!-- <img src="https://profile-counter.glitch.me/SaidRasinlic/count.svg" />
+ <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey" /> 
  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=12&icon=0&pretty=false" /> -->
   
 <div size='20px'>
-  Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div><br>
-  
+  Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div>
 </div>
 
 <h2> About Me :fire: </h2>
