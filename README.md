@@ -8,7 +8,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 -->
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
  
- <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey&style=for-the-badge" />
+ <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey&style=flat" />
 <!-- <img src="https://profile-counter.glitch.me/SaidRasinlic/count.svg" />
  <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey" /> 
  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=lightgray&icon=0&pretty=false" /> -->
