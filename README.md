@@ -19,7 +19,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 <!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg,
  https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1-->
 <img align="right" alt="Github" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1" width="55%"  />
-<img alt="uni" src="https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" />
+
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
@@ -105,3 +105,5 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <h2> Some Programming Humor for you <img align ="center" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue) --> 
+![uni](https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif)
+<img alt="uni" src="https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" />
