@@ -84,7 +84,7 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <h2> My GitHub Stats <img align="center" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidRasinlic&theme=dark&hide_border=false" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 <img src="https://github-profile-trophy.vercel.app/?username=SaidRasinlic&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
