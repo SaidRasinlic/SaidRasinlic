@@ -16,8 +16,8 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 </div>
 
 <h2> About Me :fire: </h2>
-<!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg, <img alt="uni" width="30%" src="./giphy-downsized-large.gif" />
- https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1-->
+<!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg
+ https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1 -->
 <img align="right" alt="Universe" src="./giphy-downsized-large.gif" width="30%"  />
 
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
