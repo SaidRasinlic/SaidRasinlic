@@ -18,7 +18,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 <h2> About Me :fire: </h2>
 <!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg,
  https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1-->
-<img width="55%" align="right" alt="Github" src="https://giphy.com/gifs/earth-planet-americas-l5JbspfwZ0yjHjlJ0K" />
+<img width="55%" align="right" alt="Github" src="https://media1.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif?cid=790b7611bc82727deb1223cfab0aabc0bdf0bba704306b20&rid=giphy.gif&ct=g" />
 
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
