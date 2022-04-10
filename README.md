@@ -87,6 +87,10 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 </div>
 
 
+<h2> Random Dev Quote ✍️ </h2>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 <!-- <h2> Stuff I worked on recently <img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
