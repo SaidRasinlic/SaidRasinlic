@@ -76,7 +76,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 <!-- https://github.com/anuraghazra/github-readme-stats-->
 <h2> Stuff I worked on recently <img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="">
-<img align="center" src="https://wakatime.com/share/@saidrasinlic/a2e53959-7782-436c-b532-36f20f846b3b.svg"/>
+<img align="center" src="https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 <br>
 
