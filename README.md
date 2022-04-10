@@ -11,7 +11,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 </p>
   
 <div size='20px'>
-  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&icon=2&color=12)](https://visitcount.itsvg.in" /> <br>
+  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&icon=0&color=12" /> <br>
   Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div>
 </div>
 
