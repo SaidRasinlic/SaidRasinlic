@@ -83,8 +83,10 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <img src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidRasinlic&theme=dark&hide_border=false" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=SaidRasinlic&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
 </div>
+
+<h2>My GitHub Trophies 🏆 </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=SaidRasinlic&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
 
 
 <h2>Dev Quotes ✍️ </h2>
