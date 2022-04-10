@@ -12,7 +12,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 </p>
   
 <div size='20px'>
-  Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div>
+  Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div><br>
   <img src="https://profile-counter.glitch.me/SaidRasinlic/count.svg" />
 </div>
 
