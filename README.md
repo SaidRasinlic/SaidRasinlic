@@ -105,5 +105,5 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <h2> Some Programming Humor for you <img align ="center" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue) --> 
-![uni](https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif)
-<img alt="uni" src="https://media4.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" />
+![uni](https://i.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif)
+<img alt="uni" src="https://i.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" />
