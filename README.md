@@ -8,7 +8,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
   
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=green" />
-<img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=12&icon=0&pretty=false" />
+<!-- <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=12&icon=0&pretty=false" /> -->
 </p>
   
 <div size='20px'>
