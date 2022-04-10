@@ -7,7 +7,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
 <div size='20px'>
-<img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=12&icon=0&pretty=false" /> Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div>
+<img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=12&icon=0&pretty=false" /><br> Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div>
 </div>
 
 <h2> About Me :fire: </h2>
