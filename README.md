@@ -7,7 +7,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
   
 <p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=SaidRasinlic&left_color=black&right_color=white&left_text=Profile Views" />
+<img src="visitor badge](https://visitor-badge.glitch.me/badge?page_id=SaidRasinlic" />
 <!-- <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey" /> 
  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=12&icon=0&pretty=false" /> -->
 </p>
