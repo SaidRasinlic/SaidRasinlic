@@ -16,9 +16,9 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 </div>
 
 <h2> About Me :fire: </h2>
-<!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg,
+<!--https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg, <img alt="uni" width="30%" src="./giphy-downsized-large.gif" />
  https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1-->
-<img align="right" alt="Github" src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2018/12/Thunders.gif?fit=700%2C335&quality=80&strip=all&ssl=1" width="55%"  />
+<img align="right" alt="Universe" src="./giphy-downsized-large.gif" width="30%"  />
 
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
@@ -105,4 +105,3 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <h2> Some Programming Humor for you <img align ="center" src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue) --> 
-<img alt="uni" width="50%" src="./giphy-downsized-large.gif" />
