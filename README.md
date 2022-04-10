@@ -5,7 +5,7 @@ PROFILE NOT FINISHED YET ~ / 09/04/2022
   
 <!--https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg-->
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align="right">
+<p align="center">
 
 <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&icon=0&color=12" />
 
