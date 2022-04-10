@@ -1,9 +1,11 @@
 PROFILE NOT FINISHED YET ~ / 09/04/2022
 
 <div align="center">
-<img width="100%" height = "440px" src="https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg " alt="cover" />
+<img width="100%" height = "440px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg " alt="cover" />
   
-<!--https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg-->
+<!--https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg 
+https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg
+-->
 <h1> Hello Fellow < Developers />! <img align="center" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
   
 <!-- <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey" /> 
