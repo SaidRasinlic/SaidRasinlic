@@ -25,7 +25,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 
 - ⌚ In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
 
-<div align="right"><img alt="Universe" src="https://i0.wp.com/64.media.tumblr.com/0980df4dea82bd9ca2c303f4a81756fe/d6102aa52208bbe5-1d/s500x750/1c853c1a6aba6768e4a7ef4fa0e14280e0e4060f.gifv?resize=816%2C9999&ssl=1&zoom=2" width="100%" height="320px" /> </div>
+<div align="right"><img alt="Universe" src="https://scitechdaily.com/images/Spintronic-Neurons-Concept.gif" width="100%" height="320px" /> </div>
 
 <!-- - 🔭 I’m currently working on My Blog, Github Project
 
