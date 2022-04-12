@@ -25,7 +25,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 
 - ⌚ In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
 
-<div align="right"><img alt="Art" src="https://bestanimations.com/media/lions/1899007624animated-lion-gif-25.gif#.YlU3z8cDmzs.link" width="100%" height="330px" /> </div>
+<div align="right"><img alt="Art" src="https://i.pinimg.com/originals/5f/e3/88/5fe388b55934b63d23044e72473d8f65.gif" width="100%" height="330px" /> </div>
 
 <!-- - 🔭 I’m currently working on My Blog, Github Project
 
