@@ -23,7 +23,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
-- ⌚ In my free time, I play games, follow the latest world news and practice coding outside of my home office preferably on cool locations.
+- ⌚ In my free time, I play games, follow the world news and practice coding outside of my home office preferably on cool locations.
 
 <div align="right"><img alt="Art" src="https://i.pinimg.com/originals/5f/e3/88/5fe388b55934b63d23044e72473d8f65.gif" width="100%" height="330px" /> </div>
 
