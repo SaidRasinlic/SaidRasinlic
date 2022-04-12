@@ -23,7 +23,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
-- :watch: In my free time, I play games, follow the world news and practice coding outside of my home office.
+- :watch: In my free time, I play games, watch movies, follow the world news and practice coding outside of my home office.
 
 - :pushpin: I would describe myself as very spontaneous, open-minded and flexible person who is adaptable to environment and circumstances, I can work under pressure without problems. As an individual I can totally say that I'm "criticism-tolerant". I don't like injustice, envy and trash-talking. I don't mix business with private lives. **You do you, I do me.**
 
