@@ -12,7 +12,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=lightgray&icon=0&pretty=false" /> -->
   
 <div size='20px'>
-  Hi! My name is Said Rašinlić. Thank You for taking the time to view my GitHub Profile :smile: </div>
+  Hi! My name is Said Rašinlić, 22yo. Thank You for taking the time to view my GitHub Profile :smile: </div>
 </div>
 
 <h2> About Me :fire: </h2>
