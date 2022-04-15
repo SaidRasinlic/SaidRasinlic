@@ -1,4 +1,4 @@
-``hi``
+- setup ``hi``
 
 <div align="center">
 <img width="100%" height = "430px" src="https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg" alt="cover" />
