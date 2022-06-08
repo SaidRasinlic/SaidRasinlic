@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 - :watch: In my free time, I play games, watch movies, follow the world news and practice coding outside of my home office.
 
-- :pushpin: I would describe myself as very spontaneous, open-minded and flexible person who is adaptable to environment and circumstances, I can work under pressure without problems. As an individual I can totally say that I'm "criticism-tolerant". I don't like injustice, envy and trash-talking. I don't mix business with private lives. **You do you, I do me.**
+- :pushpin: I would describe myself as very spontaneous, open-minded and flexible person who is adaptable to environment and circumstances, I can work under pressure without problems. As an individual I can totally say that I'm "criticism-tolerant" and very patient person.
 
 <div align="right"><img alt="Art" src="https://i.pinimg.com/originals/5f/e3/88/5fe388b55934b63d23044e72473d8f65.gif" width="100%" height="330px" /> </div>
 
@@ -53,7 +53,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
 
 
-<h2> Connect With Me <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" /> </h2>
+<h2> Connect With Me <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /> </h2>
 <a href = 'https://www.linkedin.com/in/saidrasynl'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@saidrasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
