@@ -6,8 +6,7 @@ https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-progr
 https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=790b76114f4d065a725237fdf7ebcedb053664b26e5b0e66&rid=giphy.gif&ct=s
 https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 -->
-<h1> Hello Fellow < Developers />! <img align="center" width=50px src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=790b76114f4d065a725237fdf7ebcedb053664b26e5b0e66&rid=giphy.gif&ct=s
-" /> </h1>
+<h1> Hello Fellow < Developers />! <img align="center" src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=790b76114f4d065a725237fdf7ebcedb053664b26e5b0e66&rid=giphy.gif&ct=s" /> </h1>
  
  <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey&style=for-the-badge" />
 <!-- <img src="https://profile-counter.glitch.me/SaidRasinlic/count.svg" />
