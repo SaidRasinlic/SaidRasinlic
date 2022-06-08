@@ -5,6 +5,9 @@
 https://hdwallpaperim.com/wp-content/uploads/2017/08/25/133605-code-poetry-programmer.jpg
 https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=790b76114f4d065a725237fdf7ebcedb053664b26e5b0e66&rid=giphy.gif&ct=s
 https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+<img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<img align="center" https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=50px />
+<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' /> 
 -->
 <h1> Hello Fellow < Developers />! <img align="center" https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=50px /> </h1>
  
@@ -50,7 +53,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a> -->
 
 
-<h2> Connect With Me <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect With Me <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" /> </h2>
 <a href = 'https://www.linkedin.com/in/saidrasynl'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@saidrasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
@@ -83,7 +86,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>
 https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true&theme=apprentice
 -->
-<h2> My GitHub Stats <img align="center" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats <img align="center" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' /> </h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
