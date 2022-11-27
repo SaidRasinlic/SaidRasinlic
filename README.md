@@ -54,6 +54,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 
 <h2> Connect With Me <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /> </h2>
+<p>Feel free to contact me anytime: </p>
 <a href = 'https://www.linkedin.com/in/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@saidrasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
