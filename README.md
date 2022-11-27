@@ -97,7 +97,7 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <h2>My GitHub Trophies 🏆 </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=SaidRasinlic&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
 
-<h2> BADGES & CERTIFICATES &nbsp; <img src="./medal.png" height="30" align="center" </h2>
+<h2> BADGES & CERTIFICATES &nbsp; <img src="./medal.png" height="30" align="center"/> </h2>
 
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55295752" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52033964)&nbsp;&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/54063078" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52033964)&nbsp;&nbsp;
