@@ -56,10 +56,10 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 <h2> Connect With Me <img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /> </h2>
 <p>Feel free to contact me anytime on any of the following platforms: </p>
 <a href = 'mailto:saidrasinlic@outlook.com'> <img align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href = 'https://www.linkedin.com/in/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@saidrasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/SaidRasinlic'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/SaidRasinlic'> <img align= 'center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href = 'https://www.twitter.com/SaidRasinlic'> <img align= 'center' src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href = 'https://medium.com/@saidrasinlic'> <img width = '32px' align= 'center' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+<a href = 'https://www.github.com/SaidRasinlic'> <img align= 'center' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> 
  
  <h2> Languages and Tools :hammer_and_wrench: </h2>
  
