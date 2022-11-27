@@ -105,11 +105,6 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49817923" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/49817923)&nbsp;&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857885" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/47857885)&nbsp;&nbsp;
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950717" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717)&nbsp;&nbsp;
-[<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7J0lDU97--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/166/appwrite-participant-adge.png" height="120"/>](https://dev.to/badge/appwrite-hackathon-on-dev-e2-80-94-participant)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://user-images.githubusercontent.com/73714615/181765128-39c76809-671d-4fc3-81e8-16bb9b658992.png" height="120" align="top"/>](https://www.udemy.com/certificate/UC-68648df5-a16c-44bc-9305-bf8e1aaa239e/)
-
-
-
 
 <h2>Dev Quotes ✍️ </h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
