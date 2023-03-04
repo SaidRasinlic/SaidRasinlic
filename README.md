@@ -91,9 +91,9 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 <h2> My GitHub Stats <img align="center" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32' /> </h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&icon_color=FB8C00&ring_color=FB8C00" width="350px" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&icon_color=FB8C00&ring_color=FB8C00" width="450px" height="195px" />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidRasinlic&theme=dark&hide_border=false" /><br> -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark" width="350px" height="195px" /><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SaidRasinlic&theme=dark" width="450px" height="195px" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaidRasinlic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
 </div>
 
@@ -110,7 +110,7 @@ https://github-readme-stats.vercel.app/api?username=SaidRasinlic&show_icons=true
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45950717" height="120" align="justify"/>](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/45950717)&nbsp;&nbsp;
 
 <h2>Dev Quotes ✍️ </h2>
-<p align="center"><img height="100%" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 
 <!-- <h2> Stuff I worked on recently <img align="center" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
