@@ -32,15 +32,18 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 - :pushpin: I would describe myself as very spontaneous, open-minded and flexible person who is adaptable to environment and circumstances, I can work under pressure without problems. As an individual I can totally say that I'm "criticism-tolerant" and very patient person.
 
-<div align="right"><img alt="Art" src="https://i.pinimg.com/originals/5f/e3/88/5fe388b55934b63d23044e72473d8f65.gif" width="100%" height="330px" /> </div>
+<div align="right"><img alt="Art" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNvdzJyaWNzMTQyYW14ZHhmN3F4c3B4YzlpdnhsbXZmZTV1eXNpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/njZPp4pQ0g4fe/giphy.gif" width="100%" height="500px" /> </div>
 
-<!-- - 🔭 I’m currently working on My Blog, Github Project
+<!--
+https://i.pinimg.com/originals/5f/e3/88/5fe388b55934b63d23044e72473d8f65.gif
+- 🔭 I’m currently working on My Blog, Github Project
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source  -->
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
+-->
 
 <!-- <h2> Skills <img align="center" src="https://c.tenor.com/s7q3-QZMq2gAAAAC/storm-lightning.gif" width = 32px> </h2>
 <a href= https://github.com/SaidRasinlic?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
