@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 <img align="center" https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif width=50px />
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' /> 
 -->
-<h1> Hello Fellow < Developers />! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" /> </h1>
+<h1> Hello fellow < Developers />! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" /> </h1>
  
  <img src="https://komarev.com/ghpvc/?username=SaidRasinlic&color=lightgrey&style=for-the-badge" />
 <!-- <img src="https://profile-counter.glitch.me/SaidRasinlic/count.svg" />
