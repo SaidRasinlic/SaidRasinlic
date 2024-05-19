@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 - :telescope: I’m working as a Software Developer and contributing to Front-End and Back-End for building web applications.
 
-- :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
+- :seedling: Keen on exploring cutting-edge technologies and refining my problem-solving abilities.
 
 - :watch: In my free time, I'm all about sports, music, chill vibes, and staying updated on tech trends.
 
