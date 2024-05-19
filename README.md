@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 - :seedling: Exploring new Ruby on Rails, JavaScript, Java technologies just as sharpening my data structure and algorithmic skills.
 
-- :watch: In my free time, I play games, watch movies, follow the world news and practice coding outside of my home office.
+- :watch: In my free time, I'm all about sports, music, chill vibes, and staying updated on tech trends.
 
 - :pushpin: I would describe myself as very spontaneous, open-minded and flexible person who is adaptable to environment and circumstances, I can work under pressure without problems. As an individual I can totally say that I'm "criticism-tolerant" and very patient person.
 
