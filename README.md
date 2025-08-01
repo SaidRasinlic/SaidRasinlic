@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
  <img src="https://visitcount.itsvg.in/api?id=SaidRasinlic&label=Profile%20Views&color=lightgray&icon=0&pretty=false" /> -->
   
 <div size='20px'>
-  Hi! My name is Said Rašinlić, 24yo. Thank You for taking the time to view my GitHub Profile :smile: </div>
+  Hi! My name is Said Rašinlić, 25yo. Thank You for taking the time to view my GitHub Profile :smile: </div>
 </div>
 
 <h2> About Me :fire: </h2>
